@@ -1,0 +1,4 @@
+# Small starter dataset; this is not a directory of all legitimate entities.
+# Columns: name,category,note. Categories may include company or institution.
+OpenAI,company,Example starter record for demonstrating exact matching
+Indian Institute of Science,institution,Example starter record for demonstrating exact matching
